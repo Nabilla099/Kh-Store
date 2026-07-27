@@ -1,9 +1,9 @@
 [
   {
-    "name": "Game Petualangan",
-    "description": "Jelajahi dungeon dan kumpulkan emas.",
-    "price": "Rp 15.000",
-    "downloadUrl": "https://nabilla-Kh.github.io/kh-store/games/adventure.jar"
+    "name": "Binary Creation Blood War of the Gods",
+    "description": "Binary Creation CN Game Java Anda adalah seorang ninja muda tetapi sangat berpengalaman dalam pertarungan. Game ini menawarkan grafis yang memukau dan sistem pertarungan yang kompleks dengan berbagai combo serangan. Jelajahi dunia yang luas dan selesaikan misi-misi menantang untuk menjadi ninja terkuat!",
+    "res": "240x320",
+    "downloadUrl": "https://github.com/Nabilla099/Kh-Store/blob/main/games/Binary%20Creation%20Blood%20War%20of%20the%20Gods%20by%20nabilla%20(SFILE.MOBI).jar"
   },
   {
     "name": "Game Balap",
