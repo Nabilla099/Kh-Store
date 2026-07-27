@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Game Petualangan",
+    "description": "Jelajahi dungeon dan kumpulkan emas.",
+    "price": "Rp 15.000",
+    "downloadUrl": "https://nabilla-Kh.github.io/kh-store/games/adventure.jar"
+  },
+  {
+    "name": "Game Balap",
+    "description": "Balapan mobil super cepat.",
+    "price": "Rp 20.000",
+    "downloadUrl": "https://nabilla-Kh.github.io/kh-store/games/racing.jar"
+  }
+]
